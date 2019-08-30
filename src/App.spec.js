@@ -4,8 +4,8 @@ import '@testing-library/jest-dom'
 
 import App from './App'
 
-describe("App", ()=>{
-    it('Renders without errors', () => {
-        render(<App/>)
-    })
+describe('App', () => {
+  it('Renders without errors', () => {
+    render(<App />)
+  })
 })
